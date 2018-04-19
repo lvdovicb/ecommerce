@@ -1,0 +1,15 @@
+
+menu {
+  display: flex;
+  width: 100%;
+}
+
+button {
+  margin-right: 10px;
+  justify-content: flex-end;
+  /* background: #005b4f; */
+}
+
+mat-icon {
+  justify-content: end;
+}
