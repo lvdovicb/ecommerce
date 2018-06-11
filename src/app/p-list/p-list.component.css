@@ -1,0 +1,14 @@
+.container {
+  margin: 5rem;
+  padding: 5rem 5rem;
+}
+
+.card {
+  box-sizing: border-box;
+
+}
+
+.card img {
+  width: 2rem;
+  height: 3rem;
+}

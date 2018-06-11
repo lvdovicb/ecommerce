@@ -11,5 +11,5 @@ export class PListComponent implements OnInit {
 
   ngOnInit() {
   }
-
+ 
 }

@@ -3,10 +3,10 @@ export class Product {
    
     constructor(
     public name:string,
+    public author:string,
     public price:number,
     public description:string,
     public imgUrl:string,
-    public author:string,
     public category:string,
     public availability:boolean,
     public date?:string,
